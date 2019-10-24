@@ -1,0 +1,52 @@
+*{box-sizing: border-box;}
+
+html{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	font-family: 'Special Elite', cursive;
+	height: 100%;
+	margin: 0px;
+}
+
+.lefttxt{
+	border: 3px solid DarkSlateGray;
+	display: inline-block;
+	margin: 7em auto;
+	color: DarkSlateGray;
+	padding: 1em;
+}
+
+.righttxt{
+	border: 3px solid Ivory;
+	display: inline-block;
+	margin: 7em auto;
+	color: Ivory;
+	padding: 1em;
+}
+
+#leftside{
+	width: 50%;
+	float: left;
+	display: inline-block;
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+	height: 100%;
+	background-color: gold;
+}
+
+#rightside{
+	width: 50%;
+	float: right;
+	display: inline-block;
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+	height: 100%;
+	background-color: teal;
+}
+
+a{
+	text-decoration: none;
+}
