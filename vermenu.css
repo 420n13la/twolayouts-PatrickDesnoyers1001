@@ -13,16 +13,16 @@ body{
 
 nav{
 	float: left;
-	border: 3px red solid;
-	background-color: salmon;
+	border: none;
+	background-color: #8b6b61;
 	width: 25%;
 	height: 100%;
 	padding: 10px;
 }
 
 h1{
-	color: red;
-	background-color: black;
+	color: black;
+	background-color: none;
 	transparency: 0.5;
 }
 
@@ -38,7 +38,7 @@ ul li{
 }
 
 main{
-	border: 3px red solid;
+	border: none;
 	background-color: smoke;
 	width: 75%;
 	overflow: auto;
@@ -53,13 +53,13 @@ header{
 }
 
 footer{
-	background-color: crimson;
+	background-color: none;
 	display: inline-block;
 }
 
 a{
 	text-decoration: none;
-	color: indigo;
+	color: #5d4037;
 }
 
 img{
