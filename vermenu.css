@@ -49,13 +49,14 @@ main{
 header{
 	background-color: #6a4f4b;
 	margin: 0px;
-	padding: 2px;
+	padding: 2%;
 	display: inline-block;
 }
 
 footer{
 	background-color: #a1887f;
 	display: inline-block;
+	padding: 3px;
 }
 
 a{
