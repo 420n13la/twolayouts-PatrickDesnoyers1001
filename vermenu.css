@@ -14,32 +14,32 @@ body{
 nav{
 	float: left;
 	border: none;
-	background-color: #8b6b61;
+	background-color: #5d4037;
 	width: 25%;
 	height: 100%;
 	padding: 10px;
+	text-align: center;
 }
 
 h1{
 	color: black;
 	background-color: none;
-	transparency: 0.5;
+	transparency: 0.3;
 }
 
 ul{
 	list-style: none;
-	border: 1px black solid;
 	padding: 0;
 }
 
 ul li{
-	border: 2px red solid;
+	background-color: #8b6b61;
 	padding: 5px;
+	margin: 10px 0;
 }
 
 main{
-	border: none;
-	background-color: smoke;
+	background-color: white;
 	width: 75%;
 	overflow: auto;
 	padding: 0px;
@@ -53,7 +53,7 @@ header{
 }
 
 footer{
-	background-color: none;
+	background-color: #a1887f;
 	display: inline-block;
 }
 
