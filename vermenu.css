@@ -49,6 +49,7 @@ main{
 header{
 	background-color: #6a4f4b;
 	margin: 0px;
+	padding: 2px;
 	display: inline-block;
 }
 
