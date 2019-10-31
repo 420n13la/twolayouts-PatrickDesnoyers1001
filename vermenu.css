@@ -15,7 +15,6 @@ body{
 
 nav{
 	float: left;
-	border: none;
 	background-color: #5d4037;
 	width: 25%;
 	height: 100%;
@@ -25,7 +24,6 @@ nav{
 
 h1{
 	color: black;
-	background-color: none;
 	transparency: 0.3;
 }
 
@@ -52,12 +50,10 @@ header{
 	background-color: #6a4f4b;
 	margin: 0px;
 	padding: 2%;
-	display: inline-block;
 }
 
 footer{
 	background-color: #a1887f;
-	display: inline-block;
 	padding: 3px;
 }
 
